@@ -9,7 +9,6 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/adnankillic) project
 ## Python
 | Project | Description |
 | --- | --- |
-
 | `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
 | `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. |
 | `Predicting Credit Card Approvals` | Build a machine learning model to predict if a credit card application will get approved. |
